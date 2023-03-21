@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#1E2933</color>
+    <color name="purple_500">#0D325E</color>
+    <color name="purple_700">#213853</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#EFF3F7</color>
+    <color name="camera_background_tint">#62AAE1</color>
+    <color name="tool_bar_color">#1A1A1A</color>
+    <color name="hint_color">#8A96A5</color>
+    <color name="bc_color">#151e27</color>
+    <color name="indicator_color">#0C1622</color>
+    <color name="text_color">#7db2df</color>
+    <color name="section_color">#1D2733</color>
+    <color name="image_color">#212D3B</color>
+</resources>
